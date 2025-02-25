@@ -2,7 +2,7 @@
 
 **Version:** [1.0]\
 **Date:** [02/25/2025]\
-**Author(s):** [Amedeo Pelliccia, Microsoft Copilot, ChatGPT]\
+**Author(s):** [Amedeo Pelliccia as EU citizen representative, Microsoft Copilot, ChatGPT, Gemini AI, Perplexity AI, Claude AI, DeepSeek AI, V0 Vercel]\
 **Reviewers:** [Stakeholders, Compliance Officers, AI Ethics Board]
 
 ---
